@@ -1,0 +1,16 @@
+{
+  "name": "clima_app",
+  "version": "1.0.0",
+  "description": "Aplicación para consultar el clima",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "colors": "^1.4.0",
+    "yargs": "^15.0.2"
+  }
+}
